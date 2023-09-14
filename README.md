@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm a 19 year old Software Engineering student from Brazil. Who is primarily interested in web development (specifically back-end), API development, networking, forensics, software engineering and development, and information/cyber security. I have been playing with computers for a long time and today it has turned into my job. I have run several projects over the past few years. I also know business and am open to questions, see contact options below.
 
 <!--
 **Nickliveira/Nickliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
