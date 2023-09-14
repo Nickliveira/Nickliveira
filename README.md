@@ -12,10 +12,3 @@
 </p>
 
 <p>
-	<h3>Socials</h3>
-	<ul>
-		<li>Twitter <a href="https://twitter.com/zans3c">@zans3c</a></li>
-		<li>Discord <strong>Motify#0033</strong> or <a href="https://discord.gg/finland">discord.gg/finland</a></li>
-		<li>Email <a href="mailto:coder@outlook.ie">coder@outlook.ie</a></li>
-	</ul>
-</p>
