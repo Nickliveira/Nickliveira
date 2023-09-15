@@ -30,5 +30,5 @@ I make angel investments in early-stage startups that I'm passionate about. If I
  </p>
 
 <p align="center">
-	<a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api?username=nickliveira&theme=dark&hide=prs,issues&count_private=true" title="Nickliveira's GitHub Statistics" alt="Nickliveira's GitHub Statistics"></a>
+	<a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api?username=nickliveira&theme=swift&hide=prs,issues&count_private=true" title="Nickliveira's GitHub Statistics" alt="Nickliveira's GitHub Statistics"></a>
 <p>
