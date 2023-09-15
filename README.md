@@ -1,7 +1,7 @@
 <p align="center">
 ![space](https://github.com/Nickliveira/Nickliveira/assets/141970853/79eb43d1-1e08-40c3-8c83-3541c284a42f)
 
-<img width="470" src="src/Nickliveira/assets/141970853/79eb43d1-1e08-40c3-8c83-3541c284a42f">
+<img width="470" src="/Nickliveira/assets/141970853/79eb43d1-1e08-40c3-8c83-3541c284a42f](https://github.com/Nickliveira/Nickliveira/assets/141970853/79eb43d1-1e08-40c3-8c83-3541c284a42f">
 
 </p>
 
