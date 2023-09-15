@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api?username=nickliveira&theme=swift&hide=prs,issues&count_private=true" title="t's GitHub Statistics" alt="n's GitHub Statistics"></a> <a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickliveira&&theme=swift&layout=compact" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages"></a>
+	<a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api?username=nickliveira&theme=swift&hide=prs,issues&count_private=true" title="Nickliveira's GitHub Statistics" alt="Nickliveira's GitHub Statistics"></a> <a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickliveira&&theme=swift&layout=compact" title="Nickliveira's Most Used Languages" alt="Nickliveira's Most Used Languages"></a>
 </p>
 
 <p>
