@@ -1,5 +1,5 @@
 <p align="center">
-![](https://github.com/nickliveira/space.gif)
+![](https://github.com/Nickliveira/Nickliveira/blob/main/space.gif)
 </p>
 
 <p align="center">
