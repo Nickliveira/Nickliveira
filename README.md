@@ -17,6 +17,8 @@ I make angel investments in early-stage startups that I'm passionate about. If I
 
 <p align="center">
 	<h2 align="center">More Infos</h2>
+</p>
+<p align="center">
   <samp>
     <a href="#">me</a> .
     <a href="#">blog</a> .    
