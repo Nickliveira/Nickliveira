@@ -1,34 +1,237 @@
-<p align="center">
-<img width="970" src="https://github.com/Nickliveira/Nickliveira/assets/141970853/79eb43d1-1e08-40c3-8c83-3541c284a42f">
+<!-- =========================================================
+     FILIPI MORAES • GITHUB PROFILE README
+     Red Gradient Theme • HTML Safe Version (PT-BR)
+========================================================= -->
 
+<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Nicolas%20Oliveira&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
+
+<!-- FRASE “ANDANDO” (SVG ANIMADO) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+software+escal%C3%A1vel+%E2%80%94+da+engenharia+ao+design."
+    alt="Texto animado"
+  />
+</p>
+
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nickliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nicolas@raposa.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nickliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+	<a href="https://instagram.com/nickliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nickliveira&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/Nickliveira?label=Followers&color=9B111E" />
+  <img src="https://img.shields.io/github/stars/Nickliveira?label=Stars&color=9B111E" />
+</p>
+
+<hr/>
+
+<h2>🧠 Sobre mim</h2>
+
+<ul>
+  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Node</b> , <b>React e Next.js</b>.</li>
+  <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
+  <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
+  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
+  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
+  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
+  <li><b>Local:</b> Ribeirão Preto/SP — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+</ul>
+
+<pre>
+const nickliveira = {
+  cargo: "Engenheiro de Software | Full Stack Developer",
+  local: "Ribeirão Preto, São Paulo, Brasil",
+  foco: [
+    "Node.js",
+    "React e Next.js (Design Systems, UX, acessibilidade)",
+    "Cloud (AWS/Azure), Docker e CI/CD",
+    "Automação com n8n e integrações via APIs"
+  ],
+  objetivo:
+    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
+};
+</pre>
+
+<hr/>
+
+<h2>📊 Visão geral do GitHub</h2>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Nickliveira&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
+
+<div align="center">
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=java,ts,js" />
+
+  <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
+
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,saas,figma" />
+
+  <h4>🗄️ Banco de dados</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,azure,docker,git,github" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
+
+<table>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+  <tr>
+    <td><b>Desenvolvimento Frontend</b></td>
+    <td align="center"><b>95%</b></td>
+    <td>Design de interface, animações, responsividade</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td align="center"><b>92%</b></td>
+    <td>APIs escaláveis, microserviços, segurança, performance</td>
+  </tr>
+  <tr>
+    <td><b>Integração Full-Stack</b></td>
+    <td align="center"><b>85%</b></td>
+    <td>Integração de APIs, arquitetura, persistência</td>
+  </tr>
+  <tr>
+    <td><b>Design UI/UX</b></td>
+    <td align="center"><b>88%</b></td>
+    <td>Design centrado no usuário, acessibilidade, Design Systems</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td align="center"><b>82%</b></td>
+    <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
+  </tr>
+  <tr>
+    <td><b>IA & Automação</b></td>
+    <td align="center"><b>78%</b></td>
+    <td>Automação com n8n, integrações e IA generativa</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Design com Propósito</b></td>
+    <td>Cada animação tem função — não é só estética, mas significado</td>
+  </tr>
+  <tr>
+    <td><b>Dados Humanizados</b></td>
+    <td>Transformo números frios em histórias que geram empatia e ação</td>
+  </tr>
+  <tr>
+    <td><b>Comunicação Clara</b></td>
+    <td>Tradução do técnico para o simples, com foco em usuários reais</td>
+  </tr>
+  <tr>
+    <td><b>Curva de Aprendizado Rápida</b></td>
+    <td>De zero à produção em projetos complexos em poucas semanas</td>
+  </tr>
+  <tr>
+    <td><b>Resiliência Profissional</b></td>
+    <td>Alta adaptabilidade e entrega consistente mesmo sob pressão</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📈 Atividade & gráficos</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nickliveira&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberto a oportunidades</h2>
+
+<pre>
+Cargos:
+- Engenheiro de Software
+- Desenvolvedor Full Stack
+- Backend (Java / Spring Boot)
+- Frontend (React / Next.js)
+
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+
+Local:
+Ribeirão Preto, SP — Brasil
+</pre>
+
+<hr/>
+
+<h2>💬✨ Vamos nos conectar</h2>
+
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
 </p>
 
 <p align="center">
-	<h2 align="center">Welcome to My World!</h2>
+  <a href="https://www.linkedin.com/in/nickliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nickliveira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-Hi, I'm Nicolas! 👋
-
-I'm **president of product, AI and strategy/marketing at </> WeDeveloped**. I created WeDev at the end of 2020, shortly after I realized the real need for good Design, Marketing and Software for small businesses.
-
-Before WeDeveloped, I created numerous development and design projects. I'm mainly known for my open source projects and my modern, innovative designs that are trusted by thousands of developers and designers around the world.
-
-I make angel investments in early-stage startups that I'm passionate about. If I'm not working or developing new projects, I'm probably skiing in St. Moritz or surfing on a Caribbean beach, going to the movies or hanging out with friends.
-
 <p align="center">
-	<h2 align="center">More Infos</h2>
+  📧 <b>Email:</b> <a href="mailto:nicolas@raposa.app">nicolas@raposa.app</a><br>
+  🌍 <b>Disponível para trabalho remoto global</b>
 </p>
-<p align="center">
-  <samp>
-    <a href="#">me</a> .
-    <a href="#">blog</a> .    
-    <a href="#">tweets</a> .
-    <a href="#">dank memes</a> .
-    <a href="#">instagram</a> .
-    <a href="#">sponsor</a>
-  </samp>
- </p>
 
+<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
 <p align="center">
-	<a href="https://github.com/nickliveira"><img src="https://github-readme-stats.vercel.app/api?username=nickliveira&theme=swift&hide=prs,issues&count_private=true" title="Nickliveira's GitHub Statistics" alt="Nickliveira's GitHub Statistics"></a>
-<p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
