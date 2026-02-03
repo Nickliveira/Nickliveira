@@ -94,13 +94,13 @@ const nickliveira = {
   <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
 
   <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,saas,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
 
   <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
   <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,azure,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
 </div>
 
 <hr/>
