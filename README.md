@@ -1,8 +1,3 @@
-<!-- =========================================================
-     FILIPI MORAES • GITHUB PROFILE README
-     Red Gradient Theme • HTML Safe Version (PT-BR)
-========================================================= -->
-
 <!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
