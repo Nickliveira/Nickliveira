@@ -1,232 +1,128 @@
-<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Nicolas%20Oliveira&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
-  />
-</p>
-
-<!-- FRASE “ANDANDO” (SVG ANIMADO) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+software+escal%C3%A1vel+%E2%80%94+da+engenharia+ao+design."
-    alt="Texto animado"
-  />
-</p>
-
-<!-- BOTÕES TOPO -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nickliveira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nicolas@raposa.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nickliveira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-	<a href="https://instagram.com/nickliveira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
-<!-- CONTADORES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nickliveira&label=Profile%20Views&color=FF3B30" />
-  <img src="https://img.shields.io/github/followers/Nickliveira?label=Followers&color=9B111E" />
-  <img src="https://img.shields.io/github/stars/Nickliveira?label=Stars&color=9B111E" />
-</p>
-
-<hr/>
-
-<h2>🧠 Sobre mim</h2>
-
-<ul>
-  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Node</b> , <b>React e Next.js</b>.</li>
-  <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
-  <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
-  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
-  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
-  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
-  <li><b>Local:</b> Ribeirão Preto/SP — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
-</ul>
-
-<pre>
-const nickliveira = {
-  cargo: "Engenheiro de Software | Full Stack Developer",
-  local: "Ribeirão Preto, São Paulo, Brasil",
-  foco: [
-    "Node.js",
-    "React e Next.js (Design Systems, UX, acessibilidade)",
-    "Cloud (AWS/Azure), Docker e CI/CD",
-    "Automação com n8n e integrações via APIs"
-  ],
-  objetivo:
-    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
-};
-</pre>
-
-<hr/>
-
-<h2>📊 Visão geral do GitHub</h2>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=Nickliveira&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<hr/>
-
-<h2>🧩 Stack tecnológica</h2>
-
 <div align="center">
-  <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=java,ts,js" />
 
-  <h4>🧱 Backend & Arquitetura</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=false&width=560&height=55&lines=Nicolas+Oliveira" alt="Nicolas Oliveira" />
 
-  <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
+<h3>Back-End Engineer · Technical Founder · AI-Powered Systems</h3>
 
-  <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<sub>Turning ambiguous problems into secure, reliable products — from the first sketch to production.</sub>
 
-  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/nickliveira"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:nicliveira03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="./Nicolas%20Oliveira%20Resume.pdf"><img src="https://img.shields.io/badge/Résumé-View_PDF-7C3AED?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Brazil-Remote-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Brazil" />
+
 </div>
 
-<hr/>
+<br/>
 
-<h2>📊 Distribuição de Expertise</h2>
+## Hello — I'm Nicolas
 
-<table>
-  <tr>
-    <th align="left">Área de Atuação</th>
-    <th align="center">Proficiência</th>
-    <th align="left">Destaque Principal</th>
-  </tr>
-  <tr>
-    <td><b>Desenvolvimento Frontend</b></td>
-    <td align="center"><b>95%</b></td>
-    <td>Design de interface, animações, responsividade</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td align="center"><b>92%</b></td>
-    <td>APIs escaláveis, microserviços, segurança, performance</td>
-  </tr>
-  <tr>
-    <td><b>Integração Full-Stack</b></td>
-    <td align="center"><b>85%</b></td>
-    <td>Integração de APIs, arquitetura, persistência</td>
-  </tr>
-  <tr>
-    <td><b>Design UI/UX</b></td>
-    <td align="center"><b>88%</b></td>
-    <td>Design centrado no usuário, acessibilidade, Design Systems</td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td align="center"><b>82%</b></td>
-    <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
-  </tr>
-  <tr>
-    <td><b>IA & Automação</b></td>
-    <td align="center"><b>78%</b></td>
-    <td>Automação com n8n, integrações e IA generativa</td>
-  </tr>
-</table>
+I have been building software since 2017 and shipping production systems since 2020. I founded **WeDeveloped**, co-founded and exited **Raposa**, and currently design operational and AI-assisted systems used in the real world.
 
-<hr/>
+My favorite loop is:
 
-<h2>✨ Meus Diferenciais</h2>
+> **research → prototype → production → users → business**
+
+I enjoy the whole journey: understanding the problem, making architectural tradeoffs, writing the code, improving reliability, listening to users, and turning the result into something people genuinely value.
+
+<br/>
+
+<div align="center">
 
 <table>
   <tr>
-    <th align="left">Característica</th>
-    <th align="left">Aplicação Prática</th>
-  </tr>
-  <tr>
-    <td><b>Design com Propósito</b></td>
-    <td>Cada animação tem função — não é só estética, mas significado</td>
-  </tr>
-  <tr>
-    <td><b>Dados Humanizados</b></td>
-    <td>Transformo números frios em histórias que geram empatia e ação</td>
-  </tr>
-  <tr>
-    <td><b>Comunicação Clara</b></td>
-    <td>Tradução do técnico para o simples, com foco em usuários reais</td>
-  </tr>
-  <tr>
-    <td><b>Curva de Aprendizado Rápida</b></td>
-    <td>De zero à produção em projetos complexos em poucas semanas</td>
-  </tr>
-  <tr>
-    <td><b>Resiliência Profissional</b></td>
-    <td>Alta adaptabilidade e entrega consistente mesmo sob pressão</td>
+    <td align="center"><strong>500K+</strong><br/><sub>TRACKING EVENTS / DAY</sub></td>
+    <td align="center"><strong>1,500</strong><br/><sub>ACTIVE OAB USERS</sub></td>
+    <td align="center"><strong>250+</strong><br/><sub>BOOKINGS / MONTH</sub></td>
+    <td align="center"><strong>25+</strong><br/><sub>CLIENT PROJECTS</sub></td>
   </tr>
 </table>
 
-<hr/>
+</div>
 
-<h2>📈 Atividade & gráficos</h2>
+## Selected work
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nickliveira&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
+> Most of my production repositories are private because they contain client IP. The outcomes are not.
 
-<hr/>
+| Product | What I built | Impact |
+| --- | --- | --- |
+| **Raposa / TraceIQ** | First-party tracking and campaign-data platform built with TypeScript, Neon, Redis, Vercel, and GitHub Actions. I owned API architecture and software availability. | Processed **500K+ tracking events per day**, monitored p95/p99 latency, and operated at roughly 100 CU-hours/week. Exit completed in 2026. |
+| **OAB Imperatriz Platform** | Re-architected a legacy PHP booking system into TypeScript/JavaScript with real-time availability, stronger authentication, 2FA, and official attorney-registration validation. | Serves **1,500 active users** and processes **250+ monthly bookings** while protecting sensitive data and preventing duplicate reservations. |
+| **Multibike Operations Ecosystem** | Built internal workflows for service scheduling, parts, quality, sales follow-up, customer contacts, and inventory alerts. An AI-assisted lead-discovery module is in development. | Connects **7,500+ ERP records** and has already supported **1,500+ recorded operational actions**. |
+| **HARPIA** | Intelligent DevSecOps capstone that orchestrates SAST, DAST, and SCA, then uses an AI agent to correlate findings and generate auditable remediation guidance. | Designed around FastAPI, Celery, Redis, PostgreSQL/pgvector, GitHub Actions, Docker, and secure SDLC quality gates. |
 
-<h2>🌍 Aberto a oportunidades</h2>
+## Toolkit
 
-<pre>
-Cargos:
-- Engenheiro de Software
-- Desenvolvedor Full Stack
-- Backend (Java / Spring Boot)
-- Frontend (React / Next.js)
+<div align="center">
 
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
+<p><strong>Back-end &amp; data</strong></p>
 
-Local:
-Ribeirão Preto, SP — Brasil
-</pre>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 
-<hr/>
+<p><strong>Product</strong></p>
 
-<h2>💬✨ Vamos nos conectar</h2>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/APIs-High_Throughput-7C3AED?style=flat-square" alt="High-throughput APIs" />
+<img src="https://img.shields.io/badge/Systems-Real_Time-7C3AED?style=flat-square" alt="Real-time systems" />
 
-<p align="center">
-  Cada link abre uma camada diferente da minha jornada:
-</p>
+<p><strong>Cloud &amp; delivery</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nickliveira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nickliveira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Learning Kubernetes" />
 
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:nicolas@raposa.app">nicolas@raposa.app</a><br>
-  🌍 <b>Disponível para trabalho remoto global</b>
-</p>
+<p><strong>AI-enabled engineering</strong></p>
 
-<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
-  />
-</p>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/LLM_Agents-Architecture-7C3AED?style=flat-square" alt="LLM agent architecture" />
+<img src="https://img.shields.io/badge/RAG-Exploring-7C3AED?style=flat-square" alt="Exploring RAG" />
+
+</div>
+
+## What I'm exploring now
+
+- **Agentic workflows:** reliable ways to connect AI reasoning, tools, business context, and human decisions.
+- **Intelligent DevSecOps:** using AI to correlate security findings without weakening deterministic quality gates.
+- **Privacy-aware discovery:** finding useful commercial signals while minimizing the exposure of personal data.
+- **Resilient autonomy:** researching UAV navigation in GNSS-denied environments such as dense forests and urban canyons.
+- **Kubernetes:** building deeper operational knowledge through hands-on study.
+
+## Beyond the code
+
+When I am not shipping software, I am usually studying AI or aerospace systems, researching an unfamiliar problem, or turning a rough idea into a prototype. I am naturally curious and entrepreneurial: I love taking an idea from a blank page to real users — and, when it creates genuine value, into a sustainable business.
+
+## Engineering activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nickliveira/Nickliveira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nickliveira/Nickliveira/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nickliveira/Nickliveira/output/github-snake.svg" alt="Animated GitHub contribution graph" />
+</picture>
+
+<br/><br/>
+
+<sub>building with curiosity, product instinct, and a healthy obsession with reliability</sub>
+
+<br/><br/>
+
+<a href="https://github.com/Nickliveira"><img src="https://komarev.com/ghpvc/?username=Nickliveira&color=7C3AED&style=flat-square&label=profile+views" alt="Profile views" /></a>
+
+</div>
