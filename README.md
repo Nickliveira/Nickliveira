@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/nickliveira"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nicliveira03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="./Nicolas%20Oliveira%20Resume.pdf"><img src="https://img.shields.io/badge/Résumé-View_PDF-7C3AED?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>&nbsp;
+<a href="./Nicolas%20Oliveira%20Resume.pdf"><img src="https://img.shields.io/badge/Résumé-View_PDF-7C3AED?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Brazil-Remote-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Brazil" />
 
 </div>
